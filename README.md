@@ -2,9 +2,9 @@
 
 - 🎓 A brazilian student
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **C#, MySQL, Java(Android) and PHP**
 
-- 🤝 I’m looking for help with **Anything related to C#**
+- 🤝 I’m looking for help with **Anything related to coding*
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafa3lr&show_icons=true&locale=en&layout=compact" alt="rafa3lr" /></p>
 
