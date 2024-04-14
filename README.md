@@ -6,7 +6,7 @@
 
 - 🤝 I’m looking for help with **Anything related to coding**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafa3lr&show_icons=true&locale=en" alt="rafa3lr" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafa3lr&show_icons=true&locale=en&langs_count=10&theme=tokyonight" alt="rafa3lr" /></p>
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafa3lr&show_icons=true&locale=en" alt="rafa3lr" /></p>
 
