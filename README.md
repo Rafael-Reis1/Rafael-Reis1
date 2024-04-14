@@ -1,12 +1,15 @@
-- Hi 👋, I'm Rafael Reis
-
-- 🎓 A brazilian student
-
-- 🌱 I’m currently learning **C#, MySQL, Java(Android) and PHP**
-
-- 🤝 I’m looking for help with **Anything related to coding**
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafa3lr&show_icons=true&locale=en&langs_count=10&theme=tokyonight" alt="rafa3lr" /></p>
+<br><br><br>
+
+&nbsp; - Hi 👋, I'm Rafael Reis
+
+&nbsp; - 🎓 A brazilian student
+
+&nbsp; - 🌱 I’m currently learning C#, MySQL, Java(Android),PHP and Laravel
+
+&nbsp; - 🤝 I’m looking for help with Anything related to coding
+
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafa3lr&show_icons=true&locale=en&langs_count=10&theme=tokyonight" alt="rafa3lr" /></p>
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafa3lr&show_icons=true&locale=en" alt="rafa3lr" /></p>
 
