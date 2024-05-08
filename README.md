@@ -5,7 +5,7 @@
 
 &nbsp; - 🎓 A brazilian student
 
-&nbsp; - 🌱 I’m currently learning C#, MySQL, Java(Android), PHP and Laravel
+&nbsp; - 🌱 I’m currently learning C#, MySQL, Java(Android) and Laravel
 
 &nbsp; - 🤝 I’m looking for help with Anything related to coding
 
