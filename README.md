@@ -9,7 +9,7 @@
 
 &nbsp; - 🤝 I’m looking for help with Anything related to coding
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rafael-Reis1&bg_color=0d1117&color=4682B4&line=FF6347&point=FFA07A&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rafael-Reis1&bg_color=1a1b27&color=6493e1&line=38bdae&point=38bdae&area=true&hide_border=false&hide_title=true&radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafa3lr&show_icons=true&locale=en&langs_count=10&theme=tokyonight" alt="rafa3lr" /></p>
 
