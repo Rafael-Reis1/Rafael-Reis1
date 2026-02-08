@@ -13,7 +13,7 @@
   <a href="https://rafael-reis1.github.io/">
     <img src="https://img.shields.io/badge/Visite_meu_Portfólio-3b82f6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
-  <a href="https://www.linkedin.com/in/rafael-reis-00331b85/">
+  <a href="https://www.linkedin.com/in/rafael-reis-silveira">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:reisr5941@gmail.com">
@@ -60,7 +60,7 @@
 | 🤖 **Chrome AI Local** | 💰 **Finance Manager Platform** |
 |:---:|:---:|
 | Interface de Chat com **Gemini Nano** rodando localmente no navegador (Privacy-First). | Sistema de gestão financeira automatizada com lógica de recorrência e Dashboard. |
-| [Ver Projeto](https://rafael-reis1.github.io/chromeAILocal/) | [Ver Projeto](https://rafael-reis1.github.io/finance/finance.html) |
+| [Ver Projeto](https://rafael-reis1.github.io/chromeAILocal/chromeAILocal.html) | [Ver Projeto](https://rafael-reis1.github.io/finance/finance.html) |
 
 ---
 
