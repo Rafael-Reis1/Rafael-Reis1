@@ -2,11 +2,12 @@
   
   # Hi there, I'm Rafael Reis! 👋
   
-  ### 🚀 Full-Stack Developer | Information Systems Student
+  ### 🚀 Software Engineer | NestJS Specialist | System Integrator
   
   <p>
-    Estudante de Sistemas de Informação na <b>Univale</b> (Governador Valadares, MG).<br>
-    Especializado no ecossistema <b>JavaScript</b>, focado em criar <b>PWAs</b> (Progressive Web Apps) performáticas e integradas à nuvem.
+    Responsável pela <b>Arquitetura e Desenvolvimento do Portal do Colaborador</b> (Intranet) na <b>Univale</b>.<br>
+    Especialista em <b>Integração de Sistemas</b> (Ecossistema TOTVS), focado em <b>Otimização de Custos</b> e Performance.<br>
+    Apaixonado por criar interfaces leves (Vanilla JS) que resolvem problemas complexos de negócio.
   </p>
 
   <a href="https://rafael-reis1.github.io/">
@@ -23,16 +24,32 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🏢 Engineering Highlights (Business Impact)
+
+> *Como utilizei tecnologia para reduzir custos e unificar a experiência do usuário:*
+
+* **🌐 Portal do Colaborador (Middleware & Intranet):** * **O Desafio:** Alta demanda de processos na **Plataforma (Fluig)** esbarrava em limites de licenciamento e custos elevados.
+    * **A Solução:** Desenvolvi uma camada de abstração em **NestJS** que gerencia formulários e requisições, otimizando o consumo de licenças proprietárias.
+    * **Integração:** Implementação de **Acesso Unificado (SSO)**, permitindo que o usuário transite entre o Portal e aplicações satélites (Biblioteca/Agenda) sem necessidade de re-login.
+    * **Stack:** Frontend ultraleve em **Vanilla JS** (zero dependências) rodando sobre **Nginx** e **Ubuntu Server**.
+
+* **⚙️ Infrastructure & Reliability (SRE):** * Migração estratégica do servidor de aplicação de Windows Server para **Ubuntu Server 24.04 LTS**.
+    * **Resultado:** Estabilidade total ("Zero Touch Restart") e redução drástica no consumo de hardware, prolongando a vida útil da infraestrutura existente.
+
+---
+
+### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <br>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Performance-High-brightgreen?style=for-the-badge" alt="Performance" />
+  <br>
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase" />
-  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA" />
-  <img src="https://img.shields.io/badge/Chart.js-F5788D?style=for-the-badge&logo=chart.js&logoColor=white" alt="Chart.js" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
@@ -40,10 +57,10 @@
 
 ### 🏆 Featured Projects
 
-| 💰 **Finance Manager PWA** | 📚 **Reading Manager PWA** |
+| 🤖 **Chrome AI Local** | 💰 **Finance Manager Platform** |
 |:---:|:---:|
-| Controle financeiro completo com **Dashboard Inteligente**, alertas de vencimento e sincronização em nuvem via Firebase. | Gerenciador de biblioteca pessoal com **Paginômetro Real**, metas anuais e integração com APIs de livros. |
-| [Ver Projeto](https://rafael-reis1.github.io/finance/finance.html) | [Ver Projeto](https://rafael-reis1.github.io/reading/reading.html) |
+| Interface de Chat com **Gemini Nano** rodando localmente no navegador (Privacy-First). | Sistema de gestão financeira automatizada com lógica de recorrência e Dashboard. |
+| [Ver Projeto](https://rafael-reis1.github.io/chromeAILocal/) | [Ver Projeto](https://rafael-reis1.github.io/finance/finance.html) |
 
 ---
 
