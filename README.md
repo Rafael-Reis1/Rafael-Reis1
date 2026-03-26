@@ -22,7 +22,7 @@ server bills low.
 NestJS APIs acting as middleware for TOTVS/Fluig orchestration — centralizing business logic and making legacy systems talk to each other without losing sanity.
 
 **DevOps & Infra**
-Migrating and maintaining Ubuntu Server 24.04 environments with Nginx as reverse proxy. On-premise, lean, and owned end-to-end.
+Maintaining Ubuntu Server 24.04 environments with Nginx as reverse proxy. On-premise, lean, and owned end-to-end.
 
 **Frontend (Zero Dependencies)**
 Vanilla JS for critical, lightweight interfaces. No frameworks, no overhead, no excuses.
