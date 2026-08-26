@@ -53,8 +53,10 @@ Vanilla JS for critical, lightweight interfaces. No frameworks, no overhead, no 
 
 `TypeScript` (deeper)  ·  `RabbitMQ / BullMQ`  ·  `AI integrations on the edge`
 
+<!--
 ---
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafael-Reis1&bg_color=1a1b27&color=7aa2f7&line=7dcfff&point=bb9af7&area=true&hide_border=true&hide_title=true&radius=6&theme=tokyonight" alt="Activity Graph" />
 </div>
+-->
